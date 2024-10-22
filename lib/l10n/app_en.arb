@@ -1,0 +1,161 @@
+{
+  "nN_236": "Builder Register with Nawa Niwasa",
+  "nN_237": "Are you a builder or a Contractor?",
+  "nN_238": "Yes, I’m a builder",
+  "nN_239": "Yes, I’m a Contractor",
+  "nN_240": "Contact our call center",
+  "nN_241": "Please login to continue our app",
+  "nN_242": "Verify",
+  "nN_243": "Verification Code",
+  "nN_244": "Enter the 6-digit verification code sent to your mobile number ending with",
+  "nN_245": "Didn’t receive OTP? OTP",
+  "nN_246": "Resend",
+  "nN_247": "NIC Number",
+  "nN_248": "Primary Skills",
+  "nN_249": "Job Description",
+  "nN_250": "Quality Tags",
+  "nN_251": "NVQ Qualifications NVQ",
+  "nN_252": "Other Skills",
+  "nN_253": "Do you want to complete creating your account?",
+  "nN_254": "Account created successfully",
+  "nN_255": "Office Phone Number",
+  "nN_256": "Business Registration Number",
+  "nN_257": "My Profile",
+  "nN_258": "Builder Profile",
+  "nN_259": "Contractor Profile",
+  "nN_260": "Rating",
+  "nN_261": "Contact between",
+  "nN_262": "Base Location",
+  "nN_263": "My Images",
+  "nN_264": "Add/Delete NVQ certifications you have obtained",
+  "nN_265": "Add/Delete your secondary skills",
+  "nN_266": "Add/Delete the images you want customers to see of your work",
+  "nN_267": "Work Categories",
+  "nN_268": "Secondary Skills",
+  "nN_269": "Contact Time Duration",
+  "nN_270": "Your Builder Team",
+  "nN_271": "Add New Builder",
+  "nN_272": "Save Builder",
+  "nN_273": "My Job Board",
+  "nN_274": "Public Jobs",
+  "nN_275": "Reject",
+  "nN_276": "Dismiss",
+  "nN_1000": "Edit",
+  "nN_1001": "Delete",
+  "nN_1002": "Builder Skills",
+  "nN_1003": "Add Team Member",
+  "nN_1004": "Edit Team Member",
+  "nN_1005": "Save",
+  "nN_1006": "Builder Name",
+  "nN_1007": "Builder Mobile Number",
+  "nN_1008": "Builder NIC Number",
+  "nN_1009": "Write a message...",
+  "nN_1010": "Confirm Job",
+  "nN_1011": "Decline Job",
+  "nN_1012": "The list is empty",
+  "nN_1013": "Search My Jobs",
+  "nN_1014": "Customer name : {customerName}",
+  "@nN_1014": {
+    "placeholders": {
+      "customerName": {
+        "type": "String"
+      }
+    }
+  },
+  "nN_1015": "Job : {jobTitle}",
+  "@nN_1015": {
+    "placeholders": {
+      "jobTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "nN_1016": "Location : {jobLocation}",
+  "@nN_1016": {
+    "placeholders": {
+      "jobLocation": {
+        "type": "String"
+      }
+    }
+  },
+  "nN_1017": "Status : ",
+  "nN_1018": "Assign Date : {jobAssignedDate}",
+  "@nN_1018": {
+    "placeholders": {
+      "jobAssignedDate": {
+        "type": "String"
+      }
+    }
+  },
+  "nN_1019": "Chat",
+  "nN_1020": "Accept",
+  "nN_1021": "Search My Jobs",
+  "nN_1022": "Apply",
+  "nN_1023": "No pictures provided",
+  "nN_1024": "Home",
+  "nN_1025": "Messages",
+  "nN_1026": "Profile",
+  "nN_1027": "My Messages",
+  "nN_1028": "Search My Messages",
+  "nN_1029": "Mobile No",
+  "nN_1030": "Welcome!",
+  "nN_1031": "Latest Notifications",
+  "nN_1032": "There are no notifications at this moment",
+  "nN_1033": "Cancel",
+  "nN_1034": "An error was occurred",
+  "nN_1035": "Try Again",
+  "nN_1036": "Jobs: {jobCount}",
+  "@nN_1036": {
+    "placeholders": {
+      "jobCount": {
+        "type": "num"
+      }
+    }
+  },
+  "nN_1037": "Job description not found",
+  "nN_1038": "Manage Crew",
+  "nN_1039": "Name",
+  "nN_1040": "Contact Number",
+  "nN_1041": "Edit Name",
+  "nN_1042": "Change the name that you want to appear as your user name.",
+  "nN_1043": "First Name",
+  "nN_1044": "Second Name",
+  "nN_1045": "Last Name",
+  "nN_1046": "Submit",
+  "nN_1047": "Edit Contact Number",
+  "nN_1048": "Change the number you want to appear for customer’s to contact you.",
+  "nN_1049": "Edit Location",
+  "nN_1050": "Change your preferred location",
+  "nN_1051": "Location",
+  "nN_1052": "An error was occurred",
+  "nN_1053": "Try Again",
+  "nN_1054": "Edit NVQ Certifications",
+  "nN_1055": "All NVQ Levels",
+  "nN_1056": "My NVQ Levels",
+  "nN_1057": "Edit Secondary Skills",
+  "nN_1058": "All Secondary skills",
+  "nN_1059": "My Secondary skills",
+  "nN_1060": "Edit Timeframe",
+  "nN_1061": "Adjust your availability timeframe by setting the start and end time",
+  "nN_1062": "Start",
+  "nN_1063": "End",
+  "nN_1064": "Update",
+  "nN_1065": "Edit Job Description",
+  "nN_1067": "Change your job description",
+  "nN_1068": "Edit Images",
+  "nN_1069": "My Images",
+  "nN_1070": "Add Images",
+  "nN_1071": "Upload",
+  "nN_1072": "Delete Account",
+  "nN_1073": "This action will delete your account.",
+  "nN_1074": "Delete",
+  "nN_1075": "Builder register with nawa niwasa",
+  "nN_1076": "Are you a Builder or a Contractor?",
+  "nN_1077": "Need any help?",
+  "nN_1078": "Yes, I’m a Builder",
+  "nN_1079": "Yes, I’m a Contractor",
+  "nN_1080": "Search",
+  "nN_1081": "Camera",
+  "nN_1082": "Photo & Video Library",
+  "nN_1083": "Documents"
+}
